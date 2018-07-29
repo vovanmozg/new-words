@@ -1,0 +1,35 @@
+Arguments: 
+  /usr/local/Cellar/node/9.10.0_1/bin/node /usr/local/Cellar/yarn/1.5.1_1/libexec/bin/yarn.js add satori-rtm-sdk
+
+PATH: 
+  /Users/vovanmozg/Applications/gsutil/google-cloud-sdk/bin:/Users/vovanmozg/.rvm/gems/ruby-2.4.0/bin:/Users/vovanmozg/.rvm/gems/ruby-2.4.0@global/bin:/Users/vovanmozg/.rvm/rubies/ruby-2.4.0/bin:/Users/vovanmozg/.fastlane/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/vovanmozg/Library/Android/sdk/emulator:/Users/vovanmozg/Library/Android/sdk/tools:/Users/vovanmozg/Library/Android/sdk/platform-tools:/Users/vovanmozg/Library/Android/sdk/platform-tools:/Users/vovanmozg/Library/Android/sdk/tools:/usr/local/opt/mongodb/bin:/opt/local/bin:/opt/local/sbin:/Users/vovanmozg/bin:/Users/vovanmozg/.rvm/bin:/Users/vovanmozg/.rvm/bin:/Users/vovanmozg/.gem/ruby/2.3.0/bin
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  9.10.0
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  {
+  	"name": "new-words",
+  	
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  SyntaxError: /Users/vovanmozg/pro/new-words/package.json: Unexpected token } in JSON at position 26
+      at JSON.parse (<anonymous>)
+      at /usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:1036:59
+      at Generator.next (<anonymous>)
+      at step (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:98:30)
+      at /usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:109:13
+      at <anonymous>
