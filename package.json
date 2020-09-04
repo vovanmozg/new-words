@@ -2,7 +2,7 @@
 	"name": "new-words",
 	"dependencies": {
 		"md5": "^2.2.1",
-		"mongodb": "^3.1.1",
+		"mongodb": "^3.1.13",
 		"satori-rtm-sdk": "^1.2.2",
 		"websocket": "^1.0.26"
 	}
